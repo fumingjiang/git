@@ -7,11 +7,10 @@ public class HelloGit {
         System.out.println("alter by git clone,thank you");
         System.out.println("这是我的修改");
 
-        System.out.println("this line alter by master");
         System.out.println("这是在develop上心开发的功能");
 
         System.out.println("try merge develop to master");
 
-        System.out.println("新开发的功能点2    master");
+        System.out.println("新开发的功能点2 develop devlop");
     }
 }
