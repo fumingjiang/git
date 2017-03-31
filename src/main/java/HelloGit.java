@@ -12,6 +12,6 @@ public class HelloGit {
 
         System.out.println("try merge develop to master");
 
-        System.out.println("新开发的功能点2");
+        System.out.println("新开发的功能点2    master");
     }
 }
