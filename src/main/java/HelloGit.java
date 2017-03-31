@@ -6,5 +6,7 @@ public class HelloGit {
         System.out.println("hello ,git !");
         System.out.println("alter by git clone,thank you");
         System.out.println("这是我的修改");
+
+        System.out.println("这是在develop上心开发的功能");
     }
 }
