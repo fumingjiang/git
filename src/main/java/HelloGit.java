@@ -13,9 +13,8 @@ public class HelloGit {
 
         System.out.println("新开发的功能点2 develop devlop");
 
-        System.out.println("功能点 3");
+        System.out.println("功能点3 ");
 
-        System.out.println("功能点5");
-
+        System.out.println("功能点4");
     }
 }
