@@ -7,16 +7,6 @@ public class HelloGit {
         System.out.println("alter by git clone,thank you");
         System.out.println("这是我的修改");
 
-        System.out.println("这是在develop上心开发的功能");
-
-        System.out.println("try merge develop to master");
-
-        System.out.println("新开发的功能点2 develop devlop");
-
-        System.out.println("3 功能点3 ");
-
-        System.out.println("功能点4");
-
-        System.out.println("test merge develop into master");
+        System.out.println("我又来了");
     }
 }
